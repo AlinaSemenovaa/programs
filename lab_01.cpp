@@ -38,8 +38,9 @@ int main()
             }
             else
                 std::cout << "Solution -- unlimited" << std::endl;
-        }
-            
+        }  
     }
+    return 0;
 }
+
 
